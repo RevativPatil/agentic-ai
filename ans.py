@@ -6,7 +6,7 @@ import pinecone
 from google import genai
 from google.genai import types
 
-PINECONE_API_KEY = "fihkzEi6a6SUYYMbGE2LWQuwenLyh5iiqVodB64HkJr"
+PINECONE_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxx"
 PINECONE_ENV = "YOUR_PINECONE_ENV"
 INDEX_NAME = "docs-embeddings"
 PDF_FOLDER = "../pdf"
